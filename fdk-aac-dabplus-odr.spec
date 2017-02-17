@@ -28,8 +28,8 @@
 
 # Note, that at the time of writing there was no official release available.
 # To get a stable reproducable build, a specific Git commit is used instead.
-%global commit0 aad197a2a2e3b8897279a34778946355589b02fa
-%global shortcommit0 aad197a
+%global commit0 725713585f9bbf668abbe5b94c1ed01b921b1fcb
+%global shortcommit0 7257135
 
 
 Name:           fdk-aac-dabplus-odr
